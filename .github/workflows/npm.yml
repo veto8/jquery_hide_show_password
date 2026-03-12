@@ -16,6 +16,7 @@ jobs:
     permissions:
       contents: read
       id-token: write
+      
     steps:
      - name: Request OIDC token
        id: oidc-token
@@ -37,6 +38,7 @@ jobs:
 
      - name: Install 
        run: |
+        apt-get install tree
         npm install --package-lock-only
         npm ci
         npm pack
@@ -44,6 +46,6 @@ jobs:
             
      - name: Publish       
        run: |
-        ls
-        # npm publish --provenance --access public
+        tree
+        npm publish --provenance --access public
   
