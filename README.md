@@ -1,5 +1,6 @@
-# ![jquery_hide_show_password](pages/public/img/icon_192x192.png) Djquery_hide_show_password
+# ![jquery_hide_show_password](pages/public/img/icon_192x192.png) jquery_hide_show_password
 
+jQuery 4 compatible "hide/show password" functionality  
 
 Because life's too short to waste time re-typing passwords.
 
