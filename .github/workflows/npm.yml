@@ -35,10 +35,15 @@ jobs:
          registry-url: 'https://registry.npmjs.org'
          always-auth: true  
 
-     - name: Publish 
+     - name: Install 
        run: |
         npm install --package-lock-only
         npm ci
         npm pack
+        # npm publish --provenance --access public
+            
+     - name: Publish       
+       run: |
+        ls
         # npm publish --provenance --access public
   
