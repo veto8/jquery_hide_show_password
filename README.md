@@ -2,7 +2,7 @@
 
 Because life's too short to waste time re-typing passwords.
 
-# ![jquery_hide_show_password](public/img/demo.gif) Demo
+# ![jquery_hide_show_password](pages/public/img/demo.gif) Demo
 
 
 
