@@ -2,7 +2,7 @@
 
 Because life's too short to waste time re-typing passwords.
 
-# ![libre-jqgrid](public/img/demo.gif) Vuejs Starter 
+# ![jquery_hide_show_password](public/img/demo.gif) Demo
 
 
 
