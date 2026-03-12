@@ -1,6 +1,10 @@
-# hideShowPassword
+# jquery_hide_show_password
 
 Because life's too short to waste time re-typing passwords.
+
+# ![jquery_hide_show_password](pages/public/img/demo.gif) Demo
+
+
 
 Inspired by a pattern seen in [Polar](http://www.polarb.com/), [IE 10+](http://ie.microsoft.com) and [LinkedIn](http://www.linkedin.com/mobile) and [documented by Luke W](http://www.lukew.com/ff/entry.asp?1653), hideShowPassword lets you easily hide and show passwords via JavaScript or a nifty inset toggle.
 
