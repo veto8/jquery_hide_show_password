@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
-    if: github.repository_owner == 'myridiax'
+    if: github.repository_owner == 'myridia'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
